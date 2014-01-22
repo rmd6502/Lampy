@@ -1,4 +1,4 @@
 Lampy
 =====
 
-Control RGB lights from a Spark Code
+Control RGB lights from a Spark Core
